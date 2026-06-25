@@ -240,4 +240,4 @@ The systems are experimental demonstrations of Computer Vision, Sports Analytics
 
 Built by tubakhxn
 
-Sports Analytics • Computer Vision • AI Engineering • Quantitative Research
+Sports Analytics • Computer Vision • AI Engineering 
